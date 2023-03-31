@@ -1,13 +1,5 @@
-## CONSIGNA
+INICIAR SERVIDOR
 
-### Crear un CRUD con NEST JS
+npm start:dev
 
-```
-El proyecto se inicia con npm start:dev
-Hay un archivo postman para probar los metodos de:
-
-Buscar todos los usuarios
-Crear usuario
-Buscar un usuario especifico
-Modificar usuario
-```
+ARCHIVO POSTMAN
